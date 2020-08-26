@@ -5,6 +5,8 @@
  - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
  - 📫 How to reach me: ... Follow me on [Instagram](https://www.instagram.com/_soumya_mohanty_)
  - 😄 Pronouns: ... He/Him/His
+ 
+ ### Show some ❤️ by starring some of the repositories!
 <!--👋
 **Soumya-CET/Soumya-CET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
