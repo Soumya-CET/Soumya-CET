@@ -1,4 +1,4 @@
- # Hi Amigos, I'm SOUMYA! 👋https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
+ # Hi Amigos, I'm SOUMYA! 👋(https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
  
 <!--
 **Soumya-CET/Soumya-CET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
