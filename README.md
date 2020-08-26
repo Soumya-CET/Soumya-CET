@@ -5,10 +5,14 @@
  ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
  ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=Soumya-CET.github.profile)
  
+ - 🔭 I’m currently pursuing ... B.Tech
  - 🌱 I’m currently learning ... Embedded C, Python.
  - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
- - 📫 How to reach me: ... Follow me on [Instagram](https://www.instagram.com/_soumya_mohanty_)
+ - 🤔 I’m looking for help with ... Deep Learning
+ - 💬 Ask me about ... Image Processing
+ - 📫 How to reach me: ... Follow me on [Instagram](https://www.instagram.com/_soumya_mohanty_), [Portfolio](https://soumyamohanty.tech)
  - 😄 Pronouns: ... He/Him/His
+ - ⚡ Fun fact: ...
  
  ### Show some ❤️ by starring some of the repositories!
 <!--👋
