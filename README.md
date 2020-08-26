@@ -1,5 +1,8 @@
  # Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
  
+ ![age](https://img.shields.io/badge/age-21-red)
+ ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+ ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=Soumya-CET.github.profile)
  
  - 🌱 I’m currently learning ... Embedded C, Python.
  - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
