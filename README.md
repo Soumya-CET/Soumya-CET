@@ -1,6 +1,6 @@
- # Hi Amigos, I'm SOUMYA! 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+ # Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
  
-<!--
+<!--👋
 **Soumya-CET/Soumya-CET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
