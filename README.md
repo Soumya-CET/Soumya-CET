@@ -5,6 +5,8 @@
  ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
  ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=Soumya-CET.github.profile)
  
+ <br />
+ 
  - 🔭 I’m currently pursuing ... B.Tech
  - 🌱 I’m currently learning ... Embedded C, Python.
  - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
@@ -14,7 +16,21 @@
  - 😄 Pronouns: ... He/Him/His
  - ⚡ Fun fact: ...
  
- ### Show some ❤️ by starring some of the repositories!
+ <br />
+ 
+ ### 🏆 Github Status
+
+
+![Soumya's github stats](https://github-readme-stats.vercel.app/api?username=Soumya-CET&show_icons=true&hide=["issues"])
+
+[![HitCount](http://hits.dwyl.com/Soumya-CET/Soumya-CET.svg)](http://hits.dwyl.com/Soumya-CET/Soumya-CET)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
 <!--👋
 **Soumya-CET/Soumya-CET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
