@@ -1,5 +1,10 @@
  # Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
  
+ 
+ - 🌱 I’m currently learning ... Embedded C, Python.
+ - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
+ - 📫 How to reach me: ... Follow me on [Instagram](https://www.instagram.com/_soumya_mohanty_)
+ - 😄 Pronouns: ... He/Him/His
 <!--👋
 **Soumya-CET/Soumya-CET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
