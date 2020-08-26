@@ -1,6 +1,7 @@
  # Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
  
  ![age](https://img.shields.io/badge/age-21-red)
+ ![focus](https://img.shields.io/badge/focus-Embedded-brightgreen)
  ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
  ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=Soumya-CET.github.profile)
  
