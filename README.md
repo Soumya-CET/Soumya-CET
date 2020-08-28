@@ -1,5 +1,14 @@
- # Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+ <div align="center" width="50">
+
+<img src="https://github.com/Soumya-CET/Soumya-CET/blob/master/3D%20Text-0.9s-286px%20(1).gif" alt="Welcome!" width="300"/>
+
+</div>
  
+
+# Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+ 
+
+
  ![age](https://img.shields.io/badge/age-21-blueviolet)
  ![focus](https://img.shields.io/badge/focus-Embedded-brightgreen)
  ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
