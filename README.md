@@ -4,9 +4,11 @@
 
 </div>
  
-
+<div align="center">
+ 
 # Hi Amigos, I'm SOUMYA!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
  
+ </div>
 
 
  ![age](https://img.shields.io/badge/age-21-blueviolet)
