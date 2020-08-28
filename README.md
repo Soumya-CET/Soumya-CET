@@ -1,4 +1,4 @@
- <div align="center" width="50">
+ <div align="center" >
 
 <img src="https://github.com/Soumya-CET/Soumya-CET/blob/master/3D%20Text-0.9s-286px%20(1).gif" alt="Welcome!" width="300"/>
 
