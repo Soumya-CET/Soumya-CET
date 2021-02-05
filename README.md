@@ -20,7 +20,7 @@
  <br />
  
  - 🔭 I’m currently pursuing ... B.Tech
- - 🌱 I’m currently learning ... Embedded C, Python.
+ - 🌱 I’m currently learning ... Python, DevNet.
  - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
  - 🤔 I’m looking for help with ... Deep Learning
  - 💬 Ask me about ... Image Processing
