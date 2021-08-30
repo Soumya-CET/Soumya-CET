@@ -19,9 +19,9 @@
  
  <br />
  
- - 🔭 I’m currently pursuing ... B.Tech
- - 🌱 I’m currently learning ... Python, DevNet.
- - 👯 I’m looking to collaborate on ...MSP430FR6989 controller projects.
+ - 🔭 I’m Working at ... Cisco Systems
+ - 🌱 I’m currently learning ... Natural Language Processing.
+ - 👯 I’m looking to collaborate on ... MSP430FR6989 controller projects.
  - 🤔 I’m looking for help with ... Deep Learning
  - 💬 Ask me about ... Image Processing
  - 📫 How to reach me: ... Follow me on [Instagram](https://www.instagram.com/_soumya_mohanty_), [Portfolio](https://soumyamohanty.tech)
